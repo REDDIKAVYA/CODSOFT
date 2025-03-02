@@ -9,6 +9,11 @@ This project is about a Python-based Tic Tac Toe game with an AI opponent. The g
 ![Screenshot 2025-03-02 165916](https://github.com/user-attachments/assets/8fcd2e6c-00e3-4c45-b13c-4e5e9fa6d9bb)
 ![Screenshot 2025-03-02 165943](https://github.com/user-attachments/assets/7df0f87e-ee87-4803-91a8-a8a8559272ae)
 ![Screenshot 2025-03-02 170124](https://github.com/user-attachments/assets/e0c13003-e7ba-4e79-b17b-ef36edfd66cd)
+ 
+# TASK-3: FACE DETECTION AND RECOGNITION SYSTEM
+This project is about a face detection and recognition system implemented using Python and OpenCV. The system utilizes the Haar cascade classifier to detect faces in real-time video streams from a webcam. Upon detection, the system draws bounding boxes around the detected faces. It serves as a foundational project for understanding computer vision techniques and can be extended for facial recognition applications by integrating with face recognition libraries such as OpenCV's face recognition module. The system offers real-time face detection and is suitable for educational purposes, research, and development of facial recognition systems.
+![Screenshot 2025-03-02 232230](https://github.com/user-attachments/assets/c08ba5dd-6c75-4b7e-a7ca-c4e78da75fb9)
+
 
 
 
